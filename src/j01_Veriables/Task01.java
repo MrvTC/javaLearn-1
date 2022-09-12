@@ -7,7 +7,7 @@ public class Task01 {
 	          \t:  horizontal tab : metni yatayda 1 tab miktarı kaydırır.
 	          \\: prints a back slash :\ (ters slash) yazdırır
 	          \': prints single quote :' tek tırnak yazdırır.
-	          \": prints double quote :"" Çift tırnak yazdırır.
+	          \": prints double quote :"" Çift tırnak yazdırır..
 	 */
 
 	
